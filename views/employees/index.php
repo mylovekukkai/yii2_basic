@@ -59,7 +59,7 @@ $this->params['breadcrumbs'][] = $this->title;
                 'value' => 'amphur.AMPHUR_NAME',
             ],
             [
-                'attribute' => 'tumbon',
+                'attribute' => 'chw',
                 'value' => 'prov.PROVINCE_NAME',
             ],
             'education',
